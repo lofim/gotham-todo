@@ -1,0 +1,6 @@
+[package]
+name = "gotham-todo"
+version = "0.1.0"
+authors = ["Martin Lofaj <martin.lofaj@accenture.com>"]
+
+[dependencies]

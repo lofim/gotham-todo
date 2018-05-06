@@ -7,3 +7,6 @@ authors = ["Martin Lofaj <martin.lofaj@accenture.com>"]
 gotham = "0.2.1"
 hyper = "0.11.25"
 mime = "0.3.7"
+serde = "*"
+serde_derive = "*"
+serde_json = "*"

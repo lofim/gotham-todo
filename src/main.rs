@@ -1,6 +1,11 @@
 extern crate gotham;
 extern crate hyper;
 extern crate mime;
+extern crate serde;
+#[macro_use]
+extern crate serde_derive;
+#[macro_use]
+extern crate serde_json;
 
 mod api;
 
